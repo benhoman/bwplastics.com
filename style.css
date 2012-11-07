@@ -247,3 +247,7 @@ a.white {
   color: white;
   text-decoration: underline;
 }
+
+#recycle {
+  float: right;
+}

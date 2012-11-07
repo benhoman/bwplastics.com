@@ -150,6 +150,17 @@ font-size: 16px;
 	margin-top:20px;
 }
 
+#logotext {
+  font-size: 64px;
+  text-shadow: 4px 4px 4px #8a8a8a;
+  padding-top: 10px;
+  filter: dropshadow(color=#8a8a8a, offx=4, offy=4);
+}
+
+#logosubtext {
+
+}
+
 #menu {
     margin-top: 17px;
 }
@@ -230,4 +241,9 @@ a.button {
     padding: 8px 10px 0;
     text-decoration: none;
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+a.white {
+  color: white;
+  text-decoration: underline;
 }
